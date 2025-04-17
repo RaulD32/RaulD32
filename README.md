@@ -1,16 +1,48 @@
-<h1 align="center">Hi , I'm Raúl Díaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm [Tu Nombre Aquí]</h1>
+<h3 align="center">Software Developer | Backend Enthusiast | Problem Solver</h3>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+---
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+🎓 I’m a Software Development student from Mexico, passionate about building efficient, scalable, and system-oriented applications.
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+💻 I have experience working with:
+- **Frontend**: Vue.js, React.js
+- **Backend**: Laravel, .NET
+- **Languages**: JavaScript, PHP, HTML, CSS
 
+🔧 I specialize in developing solutions that focus on optimization and continuous improvement. I’m a proactive problem-solver who’s always eager to learn and apply creative approaches to maximize performance and software quality.
+
+🌱 Currently learning:
+- Advanced Laravel techniques
+- Vue.js ecosystem best practices
+
+💬 Ask me about anything tech-related — happy to help if the ball is in my court 😉  
+📬 Reach out to me at: [tu-email-aquí@example.com]  
+🐾 Fun fact: I have a capybara plushie I consider my little buddy 🦫
+
+---
+
+### 🤝 Let’s Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="mailto:tu-email-aquí@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red">
+  </a>
+  <a href="https://github.com/tu-usuario" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
+</p>
