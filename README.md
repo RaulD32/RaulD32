@@ -44,12 +44,14 @@
 
 🌱 **Currently learning**:
 - Advanced Laravel techniques  
-- Vue.js ecosystem best practices
+- Best practices in Vue.js development  
+- .NET framework and system performance optimization
 
-👯 **I’m open to collaborating on real-world and open source projects.**  
-✔ **Ask me anything tech-related — happy to help if the ball is in my court!** 😉  
-📬 Reach out to me at: [tu-email-aquí@example.com]  
-🐾 **Fun fact**: I have a capybara plushie I consider my little buddy 🦫
+👯 **I’m open to collaborating on both real-world and open-source projects** focused on building efficient, scalable systems.  
+✔ **Feel free to ask me anything tech-related — I’m always happy to help with development challenges and problem-solving!** 😉  
+📬 Reach out to me at: joserauldiaz779@gmail.com  
+🐾 **Fun fact**: When I'm not coding, you’ll find me at the gym, following the latest Formula 1 races, or cheering for my favorite football team! 🏎️⚽
+
 
 ---
 
