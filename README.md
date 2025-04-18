@@ -49,7 +49,7 @@
 
 👯 **I’m open to collaborating on both real-world and open-source projects** focused on building efficient, scalable systems.  
 ✔ **Feel free to ask me anything tech-related — I’m always happy to help with development challenges and problem-solving!** 😉  
-📬 Reach out to me at: joserauldiaz779@gmail.com  
+📬 Reach out to me at:   
 🐾 **Fun fact**: When I'm not coding, you’ll find me at the gym, following the latest Formula 1 races, or cheering for my favorite football team! 🏎️⚽
 
 
