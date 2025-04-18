@@ -3,11 +3,8 @@
 
 ---
 
-**About me:**
 
-I’m a software developer with experience in creating web applications using technologies like React, Vue, .NET, and Laravel. I specialize in building efficient, system-oriented solutions with a focus on optimization and continuous improvement. I am a proactive person, problem-solver, always looking for opportunities to learn and apply creative approaches to maximize performance and software quality.
-
-🎓 **I'm a Software Development student from Mexico**, passionate about building efficient, scalable, and system-oriented applications.
+🎓 **I'm a Software Engineer from Mexico**, passionate about building efficient, scalable, and system-oriented applications.
 
 💻 **Technologies I work with:**
 
