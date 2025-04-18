@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl Díaz</h1>
-<h3 align="center">Software Developer | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer | Backend Enthusiast | Problem Solver</h3>
 
 ---
 
